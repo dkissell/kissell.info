@@ -1,0 +1,2164 @@
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 13:23:02 -0400
+
+ActionController::RoutingError (No route matches "/"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 13:23:05 -0400
+
+ActionController::RoutingError (No route matches "/home"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 13:23:13 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/CSS/style.css" for 127.0.0.1 at 2011-08-15 13:23:13 -0400
+
+ActionController::RoutingError (No route matches "/home/CSS/style.css"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/home/images/logo2.png" for 127.0.0.1 at 2011-08-15 13:23:13 -0400
+
+ActionController::RoutingError (No route matches "/home/images/logo2.png"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:10:45 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/public/stylesheets/style.css" for 127.0.0.1 at 2011-08-15 17:10:45 -0400
+
+ActionController::RoutingError (No route matches "/home/public/stylesheets/style.css"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.6ms)
+
+
+Started GET "/home/public/images/logo2.png" for 127.0.0.1 at 2011-08-15 17:10:45 -0400
+
+ActionController::RoutingError (No route matches "/home/public/images/logo2.png"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:10:47 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/public/stylesheets/style.css" for 127.0.0.1 at 2011-08-15 17:10:47 -0400
+
+ActionController::RoutingError (No route matches "/home/public/stylesheets/style.css"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/home/public/images/logo2.png" for 127.0.0.1 at 2011-08-15 17:10:47 -0400
+
+ActionController::RoutingError (No route matches "/home/public/images/logo2.png"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:11:53 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:17:22 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/public/stylesheets/style.css" for 127.0.0.1 at 2011-08-15 17:17:22 -0400
+
+ActionController::RoutingError (No route matches "/home/public/stylesheets/style.css"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/public/images/logo2.png" for 127.0.0.1 at 2011-08-15 17:17:23 -0400
+
+ActionController::RoutingError (No route matches "/home/public/images/logo2.png"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:21:23 -0400
+
+AbstractController::ActionNotFound (The action 'view' could not be found for ApplicationController):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (1.2ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:22:40 -0400
+
+AbstractController::ActionNotFound (The action 'view' could not be found for HomeController):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.8ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:28:10 -0400
+
+AbstractController::ActionNotFound (The action 'view' could not be found for HomeController):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.8ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:28:11 -0400
+
+AbstractController::ActionNotFound (The action 'view' could not be found for HomeController):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.8ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:28:36 -0400
+
+AbstractController::ActionNotFound (The action 'view' could not be found for HomeController):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.7ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:29:23 -0400
+
+AbstractController::ActionNotFound (The action 'view' could not be found for HomeController):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.8ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:30:34 -0400
+
+ActionController::RoutingError (uninitialized constant PublicController):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:36:15 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (28.7ms)
+Completed 200 OK in 50ms (Views: 49.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/public/images/logo2.png" for 127.0.0.1 at 2011-08-15 17:36:15 -0400
+
+ActionController::RoutingError (No route matches "/home/public/images/logo2.png"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/home/public/stylesheets/style.css" for 127.0.0.1 at 2011-08-15 17:36:15 -0400
+
+ActionController::RoutingError (No route matches "/home/public/stylesheets/style.css"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:43:37 -0400
+  Processing by HomeController#index as HTML
+Rendered layouts/_stylesheets.html.erb (0.3ms)
+Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 20ms (Views: 19.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/public/images/logo2.png" for 127.0.0.1 at 2011-08-15 17:43:37 -0400
+
+ActionController::RoutingError (No route matches "/home/public/images/logo2.png"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:44:06 -0400
+  Processing by HomeController#index as HTML
+Rendered layouts/_stylesheets.html.erb (0.5ms)
+Rendered home/index.html.erb within layouts/application (34.9ms)
+Completed 200 OK in 49ms (Views: 48.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/public/images/logo2.png" for 127.0.0.1 at 2011-08-15 17:44:07 -0400
+
+ActionController::RoutingError (No route matches "/home/public/images/logo2.png"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:47:22 -0400
+  Processing by HomeController#index as HTML
+Rendered layouts/_stylesheets.html.erb (0.4ms)
+Rendered home/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 26ms (Views: 25.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/public/images/logo2.png" for 127.0.0.1 at 2011-08-15 17:47:22 -0400
+
+ActionController::RoutingError (No route matches "/home/public/images/logo2.png"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.7ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:48:40 -0400
+  Processing by HomeController#index as HTML
+Rendered layouts/_stylesheets.html.erb (1.1ms)
+Rendered home/index.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 28ms (Views: 27.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/public/images/logo2.png" for 127.0.0.1 at 2011-08-15 17:48:40 -0400
+
+ActionController::RoutingError (No route matches "/home/public/images/logo2.png"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:54:51 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/public/images/logo2.png" for 127.0.0.1 at 2011-08-15 17:54:51 -0400
+
+ActionController::RoutingError (No route matches "/home/public/images/logo2.png"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:55:48 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/logo2.png" for 127.0.0.1 at 2011-08-15 17:55:48 -0400
+
+ActionController::RoutingError (No route matches "/home/logo2.png"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 17:58:21 -0400
+  Processing by HomeController#index as HTML
+ERROR: compiling _app_views_layouts_application_html_erb__4224953033427544835_70345022169240__4299375819079466064 RAISED /Users/admin/Sites/rails_projects/kissell.info/app/views/layouts/application.html.erb:9: syntax error, unexpected tIDENTIFIER, expecting ')'
+...nd= ( image_tag("logo2.png" alt="Wanna be Rockateer"));@outp...
+...                               ^
+/Users/admin/Sites/rails_projects/kissell.info/app/views/layouts/application.html.erb:9: syntax error, unexpected ')', expecting keyword_end
+...png" alt="Wanna be Rockateer"));@output_buffer.safe_concat('
+...                               ^
+Function body:           def _app_views_layouts_application_html_erb__4224953033427544835_70345022169240__4299375819079466064(local_assigns)
+            _old_virtual_path, @_virtual_path = @_virtual_path, "layouts/application";_old_output_buffer = @output_buffer;;@output_buffer = ActionView::OutputBuffer.new;@output_buffer.safe_concat('<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Sunbon.net | Hi interwebs!</title>
+');@output_buffer.append= ( stylesheet_link_tag :all );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('</head>
+<body>
+<div id="header">');@output_buffer.append= ( image_tag("logo2.png" alt="Wanna be Rockateer"));@output_buffer.safe_concat('
+');@output_buffer.safe_concat('	</div>
+<div id="navigation">
+	</div>
+<div id="content">
+	
+	<p>
+	<aside id="featured" class="body"><article>
+	    
+	    <hgroup>
+
+	        <h2>Hi, my name is Dan!</h2>
+	        
+	    </hgroup>
+	    <p>I like to write web apps.</p>
+
+	</article></aside><!-- /#featured -->
+	</p>
+
+	</div>
+<div id="footer">
+	</div>
+</body>
+</html>
+');@output_buffer.to_s
+          ensure
+            @_virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+Backtrace: /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/template.rb:258:in `module_eval'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/template.rb:258:in `compile'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/template.rb:134:in `block in render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications.rb:54:in `instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/template.rb:127:in `render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/render/layouts.rb:80:in `_render_layout'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/render/rendering.rb:62:in `block in _render_template'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications.rb:52:in `block in instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications.rb:52:in `instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/render/rendering.rb:56:in `_render_template'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/render/rendering.rb:26:in `render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:115:in `_render_template'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:109:in `render_to_body'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/renderers.rb:47:in `render_to_body'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/compatibility.rb:55:in `render_to_body'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:102:in `render_to_string'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:93:in `render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/rendering.rb:17:in `render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/benchmark.rb:310:in `realtime'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:78:in `cleanup_view_runtime'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activerecord-3.0.9/lib/active_record/railties/controller_runtime.rb:15:in `cleanup_view_runtime'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/base.rb:150:in `process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/rendering.rb:11:in `process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/callbacks.rb:436:in `_run__899884465142755323__process_action__3667343676147673204__callbacks'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/callbacks.rb:410:in `_run_process_action_callbacks'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/callbacks.rb:94:in `run_callbacks'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications.rb:52:in `block in instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications.rb:52:in `instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/rescue.rb:17:in `process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/base.rb:119:in `process'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:41:in `process'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal.rb:138:in `dispatch'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal.rb:178:in `block in action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/routing/route_set.rb:62:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/routing/route_set.rb:62:in `dispatch'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/routing/route_set.rb:27:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-mount-0.6.14/lib/rack/mount/route_set.rb:148:in `block in call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-mount-0.6.14/lib/rack/mount/code_generation.rb:93:in `block in recognize'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-mount-0.6.14/lib/rack/mount/code_generation.rb:68:in `optimized_each'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-mount-0.6.14/lib/rack/mount/code_generation.rb:92:in `recognize'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-mount-0.6.14/lib/rack/mount/route_set.rb:139:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/routing/route_set.rb:493:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/head.rb:14:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/methodoverride.rb:24:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/flash.rb:182:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/session/abstract_store.rb:149:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/cookies.rb:302:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activerecord-3.0.9/lib/active_record/query_cache.rb:32:in `block in call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activerecord-3.0.9/lib/active_record/connection_adapters/abstract/query_cache.rb:28:in `cache'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activerecord-3.0.9/lib/active_record/query_cache.rb:12:in `cache'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activerecord-3.0.9/lib/active_record/query_cache.rb:31:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activerecord-3.0.9/lib/active_record/connection_adapters/abstract/connection_pool.rb:354:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/callbacks.rb:46:in `block in call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/callbacks.rb:416:in `_run_call_callbacks'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/callbacks.rb:44:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/sendfile.rb:107:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/remote_ip.rb:48:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/show_exceptions.rb:47:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/railties-3.0.9/lib/rails/rack/logger.rb:13:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/runtime.rb:17:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/lock.rb:11:in `block in call'
+<internal:prelude>:10:in `synchronize'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/lock.rb:11:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/static.rb:30:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/railties-3.0.9/lib/rails/application.rb:168:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/railties-3.0.9/lib/rails/application.rb:77:in `method_missing'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/railties-3.0.9/lib/rails/rack/log_tailer.rb:14:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/content_length.rb:13:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/handler/webrick.rb:52:in `service'
+/Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+/Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+/Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+Rendered home/index.html.erb within layouts/application (44.3ms)
+Completed 500 Internal Server Error in 49ms
+
+ActionView::Template::Error (/Users/admin/Sites/rails_projects/kissell.info/app/views/layouts/application.html.erb:9: syntax error, unexpected tIDENTIFIER, expecting ')'
+...nd= ( image_tag("logo2.png" alt="Wanna be Rockateer"));@outp...
+...                               ^
+/Users/admin/Sites/rails_projects/kissell.info/app/views/layouts/application.html.erb:9: syntax error, unexpected ')', expecting keyword_end
+...png" alt="Wanna be Rockateer"));@output_buffer.safe_concat('
+...                               ^):
+    6: <%= stylesheet_link_tag :all %>
+    7: </head>
+    8: <body>
+    9: <div id="header"><%= image_tag("logo2.png" alt="Wanna be Rockateer")%>
+    10: 	</div>
+    11: <div id="navigation">
+    12: 	</div>
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (10.2ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 17:58:51 -0400
+
+ActionController::RoutingError (No route matches "/home"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 17:59:35 -0400
+
+ActionController::RoutingError (No route matches "/home"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 17:59:58 -0400
+
+ActionController::RoutingError (No route matches "/home"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 18:00:46 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 22ms (Views: 21.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 18:01:55 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 18:02:05 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 18:10:03 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (20.1ms)
+Completed 200 OK in 26ms (Views: 25.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 18:10:31 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 18:10:47 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:24:04 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 13ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:24:16 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:24:41 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:25:46 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:27:59 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:28:38 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:30:31 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:32:27 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:33:00 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:35:42 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:41:26 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 21ms (Views: 20.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:41:43 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:42:49 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 41ms (Views: 40.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:43:14 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:45:31 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 46ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:45:59 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:46:25 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/home/about" for 127.0.0.1 at 2011-08-15 19:52:31 -0400
+
+ActionController::RoutingError (No route matches "/home/about"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.5ms)
+
+
+Started GET "/home/about" for 127.0.0.1 at 2011-08-15 19:53:20 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 127.0.0.1 at 2011-08-15 19:54:52 -0400
+  Processing by HomeController#about as HTML
+ERROR: compiling _app_views_layouts_application_html_erb__4390175376257352127_70175574877360_1996106710813733072 RAISED /Users/admin/Sites/rails_projects/kissell.info/app/views/layouts/application.html.erb:13: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... ( link_to about, link_to tests, link_to contact );@output_b...
+...                               ^
+/Users/admin/Sites/rails_projects/kissell.info/app/views/layouts/application.html.erb:13: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... link_to tests, link_to contact );@output_buffer.safe_concat...
+...                               ^
+Function body:           def _app_views_layouts_application_html_erb__4390175376257352127_70175574877360_1996106710813733072(local_assigns)
+            _old_virtual_path, @_virtual_path = @_virtual_path, "layouts/application";_old_output_buffer = @output_buffer;;@output_buffer = ActionView::OutputBuffer.new;@output_buffer.safe_concat('<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>@_dkissell</title>
+');@output_buffer.append= ( stylesheet_link_tag :all );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('<font size="5" face="georgia" color="#303030">
+</head>
+<body>
+<div id="header">');@output_buffer.append= ( image_tag("logo2.png", :alt => "Wanna be Rockateer", :width => 750, :height => 150));@output_buffer.safe_concat('
+');@output_buffer.safe_concat('</div>
+<div id="navigation">
+  ');@output_buffer.append= ( link_to about, link_to tests, link_to contact );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('</div>
+<div id="content">
+
+  ');@output_buffer.append= ( yield );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('
+</div>
+<div id="footer">
+</div>
+</body>
+</html>
+');@output_buffer.to_s
+          ensure
+            @_virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+Backtrace: /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/template.rb:258:in `module_eval'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/template.rb:258:in `compile'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/template.rb:134:in `block in render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications.rb:54:in `instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/template.rb:127:in `render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/render/layouts.rb:80:in `_render_layout'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/render/rendering.rb:62:in `block in _render_template'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications.rb:52:in `block in instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications.rb:52:in `instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/render/rendering.rb:56:in `_render_template'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_view/render/rendering.rb:26:in `render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:115:in `_render_template'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:109:in `render_to_body'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/renderers.rb:47:in `render_to_body'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/compatibility.rb:55:in `render_to_body'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:102:in `render_to_string'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:93:in `render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/rendering.rb:17:in `render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/benchmark.rb:310:in `realtime'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:78:in `cleanup_view_runtime'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activerecord-3.0.9/lib/active_record/railties/controller_runtime.rb:15:in `cleanup_view_runtime'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/base.rb:150:in `process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/rendering.rb:11:in `process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/callbacks.rb:436:in `_run__6245072641427643__process_action__962816886959409017__callbacks'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/callbacks.rb:410:in `_run_process_action_callbacks'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/callbacks.rb:94:in `run_callbacks'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications.rb:52:in `block in instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/notifications.rb:52:in `instrument'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/rescue.rb:17:in `process_action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/base.rb:119:in `process'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:41:in `process'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal.rb:138:in `dispatch'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_controller/metal.rb:178:in `block in action'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/routing/route_set.rb:62:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/routing/route_set.rb:62:in `dispatch'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/routing/route_set.rb:27:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-mount-0.6.14/lib/rack/mount/route_set.rb:148:in `block in call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-mount-0.6.14/lib/rack/mount/code_generation.rb:93:in `block in recognize'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-mount-0.6.14/lib/rack/mount/code_generation.rb:68:in `optimized_each'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-mount-0.6.14/lib/rack/mount/code_generation.rb:92:in `recognize'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-mount-0.6.14/lib/rack/mount/route_set.rb:139:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/routing/route_set.rb:493:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/head.rb:14:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/methodoverride.rb:24:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/flash.rb:182:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/session/abstract_store.rb:149:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/cookies.rb:302:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activerecord-3.0.9/lib/active_record/query_cache.rb:32:in `block in call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activerecord-3.0.9/lib/active_record/connection_adapters/abstract/query_cache.rb:28:in `cache'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activerecord-3.0.9/lib/active_record/query_cache.rb:12:in `cache'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activerecord-3.0.9/lib/active_record/query_cache.rb:31:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activerecord-3.0.9/lib/active_record/connection_adapters/abstract/connection_pool.rb:354:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/callbacks.rb:46:in `block in call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/callbacks.rb:416:in `_run_call_callbacks'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/callbacks.rb:44:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/sendfile.rb:107:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/remote_ip.rb:48:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/show_exceptions.rb:47:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/railties-3.0.9/lib/rails/rack/logger.rb:13:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/runtime.rb:17:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/activesupport-3.0.9/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/lock.rb:11:in `block in call'
+<internal:prelude>:10:in `synchronize'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/lock.rb:11:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/static.rb:30:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/railties-3.0.9/lib/rails/application.rb:168:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/railties-3.0.9/lib/rails/application.rb:77:in `method_missing'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/railties-3.0.9/lib/rails/rack/log_tailer.rb:14:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/content_length.rb:13:in `call'
+/Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.2.3/lib/rack/handler/webrick.rb:52:in `service'
+/Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+/Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+/Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+Rendered home/about.html.erb within layouts/application (37.3ms)
+Completed 500 Internal Server Error in 42ms
+
+ActionView::Template::Error (/Users/admin/Sites/rails_projects/kissell.info/app/views/layouts/application.html.erb:13: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... ( link_to about, link_to tests, link_to contact );@output_b...
+...                               ^
+/Users/admin/Sites/rails_projects/kissell.info/app/views/layouts/application.html.erb:13: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... link_to tests, link_to contact );@output_buffer.safe_concat...
+...                               ^):
+    10: <div id="header"><%= image_tag("logo2.png", :alt => "Wanna be Rockateer", :width => 750, :height => 150)%>
+    11: </div>
+    12: <div id="navigation">
+    13:   <%= link_to about, link_to tests, link_to contact %>
+    14: </div>
+    15: <div id="content">
+    16: 
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.5ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.7ms)
+
+
+Started GET "/home/about" for 127.0.0.1 at 2011-08-15 19:55:24 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (6.2ms)
+Completed 500 Internal Server Error in 12ms
+
+ActionView::Template::Error (undefined local variable or method `about' for #<#<Class:0x007fa60c291008>:0x007fa60c28e060>):
+    10: <div id="header"><%= image_tag("logo2.png", :alt => "Wanna be Rockateer", :width => 750, :height => 150)%>
+    11: </div>
+    12: <div id="navigation">
+    13:   <%= link_to about %>
+    14: </div>
+    15: <div id="content">
+    16: 
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb__4390175376257352127_70175572602960_1996106710813733072'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.8ms)
+
+
+Started GET "/home/" for 127.0.0.1 at 2011-08-15 19:55:28 -0400
+
+ActionController::RoutingError (No route matches "/home"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:55:33 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (6.5ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (undefined local variable or method `about' for #<#<Class:0x007fa60acbbbc0>:0x007fa60acb8830>):
+    10: <div id="header"><%= image_tag("logo2.png", :alt => "Wanna be Rockateer", :width => 750, :height => 150)%>
+    11: </div>
+    12: <div id="navigation">
+    13:   <%= link_to about %>
+    14: </div>
+    15: <div id="content">
+    16: 
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb__4390175376257352127_70175561169360_1996106710813733072'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.2ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:55:55 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 19:57:50 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (8.1ms)
+Completed 500 Internal Server Error in 49ms
+
+ActionView::Template::Error (undefined local variable or method `about_path' for #<#<Class:0x007fa60c3a2898>:0x007fa60c39efe0>):
+    10: <div id="header"><%= image_tag("logo2.png", :alt => "Wanna be Rockateer", :width => 750, :height => 150)%>
+    11: </div>
+    12: <div id="navigation">
+    13:   <%= link_to "About", about_path %>
+    14: </div>
+    15: <div id="content">
+    16: 
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb__4390175376257352127_70175573203140_1996106710813733072'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.9ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (11.7ms)
+
+
+Started GET "/home/about" for 127.0.0.1 at 2011-08-15 19:59:53 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (7.5ms)
+Completed 500 Internal Server Error in 25ms
+
+ActionView::Template::Error (undefined local variable or method `about_path' for #<#<Class:0x007fa60b388958>:0x007fa60b386ab8>):
+    10: <div id="header"><%= image_tag("logo2.png", :alt => "Wanna be Rockateer", :width => 750, :height => 150)%>
+    11: </div>
+    12: <div id="navigation">
+    13:   <%= link_to "About", about_path %>
+    14: </div>
+    15: <div id="content">
+    16: 
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb__4390175376257352127_70175564756020_1996106710813733072'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.1ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/home/about" for 127.0.0.1 at 2011-08-15 20:01:55 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (20.8ms)
+Completed 500 Internal Server Error in 42ms
+
+ActionView::Template::Error (undefined local variable or method `about_path' for #<#<Class:0x007fa43c79cb00>:0x007fa43c72b540>):
+    10: <div id="header"><%= image_tag("logo2.png", :alt => "Wanna be Rockateer", :width => 750, :height => 150)%>
+    11: </div>
+    12: <div id="navigation">
+    13:   <%= link_to "About", about_path %>
+    14: </div>
+    15: <div id="content">
+    16: 
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb__413368460553054588_70171682742620__1726276258547648394'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.8ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.5ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 20:01:59 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (34.5ms)
+Completed 500 Internal Server Error in 99ms
+
+ActionView::Template::Error (undefined local variable or method `about_path' for #<#<Class:0x007fa43df8f140>:0x007fa43de3e458>):
+    10: <div id="header"><%= image_tag("logo2.png", :alt => "Wanna be Rockateer", :width => 750, :height => 150)%>
+    11: </div>
+    12: <div id="navigation">
+    13:   <%= link_to "About", about_path %>
+    14: </div>
+    15: <div id="content">
+    16: 
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb__413368460553054588_70171694850040__1726276258547648394'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.9ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.4ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 20:02:26 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 20:03:57 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2011-08-15 20:06:54 -0400
+
+ActionController::RoutingError (No route matches "/home/index"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.5ms)
+
+
+Started GET "/home/" for 127.0.0.1 at 2011-08-15 20:07:02 -0400
+
+ActionController::RoutingError (No route matches "/home"):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:07:10 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 20:07:23 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 20:08:21 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:08:26 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:19:48 -0400
+
+SyntaxError (/Users/admin/Sites/rails_projects/kissell.info/app/controllers/home_controller.rb:3: syntax error, unexpected tASSOC, expecting keyword_end
+    @title => 'Home'
+             ^
+/Users/admin/Sites/rails_projects/kissell.info/app/controllers/home_controller.rb:7: syntax error, unexpected tASSOC, expecting keyword_end
+    @title => 'About'
+             ^
+/Users/admin/Sites/rails_projects/kissell.info/app/controllers/home_controller.rb:11: syntax error, unexpected tASSOC, expecting keyword_end
+    @title => 'Tests'
+             ^
+/Users/admin/Sites/rails_projects/kissell.info/app/controllers/home_controller.rb:15: syntax error, unexpected tASSOC, expecting keyword_end
+    @title => 'Contact'
+             ^):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.9ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:20:32 -0400
+
+SyntaxError (/Users/admin/Sites/rails_projects/kissell.info/app/controllers/home_controller.rb:7: syntax error, unexpected tASSOC, expecting keyword_end
+    @title => 'Home'
+             ^
+/Users/admin/Sites/rails_projects/kissell.info/app/controllers/home_controller.rb:11: syntax error, unexpected tASSOC, expecting keyword_end
+    @title => 'About'
+             ^
+/Users/admin/Sites/rails_projects/kissell.info/app/controllers/home_controller.rb:15: syntax error, unexpected tASSOC, expecting keyword_end
+    @title => 'Tests'
+             ^
+/Users/admin/Sites/rails_projects/kissell.info/app/controllers/home_controller.rb:19: syntax error, unexpected tASSOC, expecting keyword_end
+    @title => 'Contact'
+             ^):
+  
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:22:25 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (5.4ms)
+Completed 500 Internal Server Error in 10ms
+
+ActionView::Template::Error (undefined local variable or method `title' for #<#<Class:0x007fa43de17b78>:0x007fa43de13f28>):
+    2: <html lang="en">
+    3: <head>
+    4: <meta charset="utf-8">
+    5: <title><%= title %></title>
+    6: <%= stylesheet_link_tag :all %>
+    7: <font size="5" face="georgia" color="#303030">
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__413368460553054588_70171694759920__1726276258547648394'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.9ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.7ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:23:16 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:25:26 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (5.8ms)
+Completed 500 Internal Server Error in 10ms
+
+ActionView::Template::Error (undefined local variable or method `home_path' for #<#<Class:0x007fa43c514478>:0x007fa43c512948>):
+    10: <div id="header"><%= image_tag("logo2.png", :alt => "Wanna be Rockateer", :width => 750, :height => 150)%>
+    11: </div>
+    12: <div id="navigation">
+    13:   <%= link_to "Home", home_path %>
+    14: </div>
+    15: <div id="content">
+    16: 
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb__413368460553054588_70171681652760__1726276258547648394'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.5ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.6ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:26:29 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (6.1ms)
+Completed 500 Internal Server Error in 10ms
+
+ActionView::Template::Error (undefined local variable or method `home' for #<#<Class:0x007fa43dea3768>:0x007fa43de9bd88>):
+    10: <div id="header"><%= image_tag("logo2.png", :alt => "Wanna be Rockateer", :width => 750, :height => 150)%>
+    11: </div>
+    12: <div id="navigation">
+    13:   <%= link_to "Home", home %>
+    14: </div>
+    15: <div id="content">
+    16: 
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb__413368460553054588_70171695027700__1726276258547648394'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:26:46 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (5.9ms)
+Completed 500 Internal Server Error in 12ms
+
+ActionView::Template::Error (undefined local variable or method `home_path' for #<#<Class:0x007fa43da647b0>:0x007fa43da57588>):
+    10: <div id="header"><%= image_tag("logo2.png", :alt => "Wanna be Rockateer", :width => 750, :height => 150)%>
+    11: </div>
+    12: <div id="navigation">
+    13:   <%= link_to "Home" => home_path %>
+    14: </div>
+    15: <div id="content">
+    16: 
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb__413368460553054588_70171692801680__1726276258547648394'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.4ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:28:59 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (5.6ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (undefined local variable or method `index_path' for #<#<Class:0x007fa43c49dc10>:0x007fa43c499340>):
+    10: <div id="header"><%= image_tag("logo2.png", :alt => "Wanna be Rockateer", :width => 750, :height => 150)%>
+    11: </div>
+    12: <div id="navigation">
+    13:   <%= link_to "Home", index_path  %>
+    14: </div>
+    15: <div id="content">
+    16: 
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb__413368460553054588_70171681398140__1726276258547648394'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.9ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (10.4ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:35:31 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 9ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:35:34 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 20:35:38 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 20:38:16 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (73.3ms)
+Completed 500 Internal Server Error in 77ms
+
+ActionView::Template::Error (undefined local variable or method `index_path' for #<#<Class:0x007fd3b1eb5898>:0x007fd3b1ead850>):
+    11: </div>
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", index_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb___297500208838983985_70273599881400_1099505276323787478'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.0ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.6ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 20:38:19 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (32.5ms)
+Completed 500 Internal Server Error in 37ms
+
+ActionView::Template::Error (undefined local variable or method `index_path' for #<#<Class:0x007fd3b14c5b30>:0x007fd3b14ccfe8>):
+    11: </div>
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", index_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb___297500208838983985_70273594709420_1099505276323787478'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:38:50 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (5.9ms)
+Completed 500 Internal Server Error in 61ms
+
+ActionView::Template::Error (undefined local variable or method `index_path' for #<#<Class:0x007fd3b307d378>:0x007fd3b307af38>):
+    11: </div>
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", index_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb___297500208838983985_70273609112020_1099505276323787478'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.7ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:39:27 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (20.1ms)
+Completed 500 Internal Server Error in 24ms
+
+ActionView::Template::Error (undefined local variable or method `home_path' for #<#<Class:0x007f862ce00bf0>:0x007f862cdd88a8>):
+    11: </div>
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", home_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb__3564254949440539052_70107127411700__3261982818001843743'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.4ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:39:29 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (34.0ms)
+Completed 500 Internal Server Error in 38ms
+
+ActionView::Template::Error (undefined local variable or method `home_path' for #<#<Class:0x007f862e3c4158>:0x007f862e3cc010>):
+    11: </div>
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", home_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb__3564254949440539052_70107139034540__3261982818001843743'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:39:33 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (6.5ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (undefined local variable or method `home_path' for #<#<Class:0x007f862e0fc8d0>:0x007f862e0fa4b8>):
+    11: </div>
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", home_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb__3564254949440539052_70107137553800__3261982818001843743'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:39:37 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (8.6ms)
+Completed 500 Internal Server Error in 13ms
+
+ActionView::Template::Error (undefined local variable or method `home_path' for #<#<Class:0x007f862c74d970>:0x007f862c74ae00>):
+    11: </div>
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", home_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb__3564254949440539052_70107124054360__3261982818001843743'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.2ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:40:55 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (18.5ms)
+Completed 500 Internal Server Error in 23ms
+
+ActionView::Template::Error (undefined local variable or method `root_path' for #<#<Class:0x007fb452df30a0>:0x007fb452dd8980>):
+    11: </div>
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", root_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb___4244579748955866065_70206230525360_4450834113187671658'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:40:57 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (32.7ms)
+Completed 500 Internal Server Error in 37ms
+
+ActionView::Template::Error (undefined local variable or method `root_path' for #<#<Class:0x007fb4550e56d0>:0x007fb4550ebb98>):
+    11: </div>
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", root_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb___4244579748955866065_70206248930160_4450834113187671658'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:41:00 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (7.1ms)
+Completed 500 Internal Server Error in 12ms
+
+ActionView::Template::Error (undefined local variable or method `root_path' for #<#<Class:0x007fb4538eb4f8>:0x007fb4538e96f8>):
+    11: </div>
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", root_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb___4244579748955866065_70206236241360_4450834113187671658'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.1ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:42:08 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (21.0ms)
+Completed 500 Internal Server Error in 25ms
+
+ActionView::Template::Error (undefined local variable or method `test_path' for #<#<Class:0x007fc642daf308>:0x007fc642d9e2d8>):
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", home_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+    18: <div id="content">
+  app/views/layouts/application.html.erb:15:in `_app_views_layouts_application_html_erb___1947103855430407780_70244750900660_80626038825386948'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:42:09 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (32.3ms)
+Completed 500 Internal Server Error in 37ms
+
+ActionView::Template::Error (undefined local variable or method `test_path' for #<#<Class:0x007fc644246500>:0x007fc64424e3b8>):
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", home_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+    18: <div id="content">
+  app/views/layouts/application.html.erb:15:in `_app_views_layouts_application_html_erb___1947103855430407780_70244761755520_80626038825386948'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.1ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (6.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:42:10 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (6.7ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (undefined local variable or method `test_path' for #<#<Class:0x007fc6448754d0>:0x007fc644873248>):
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", home_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+    18: <div id="content">
+  app/views/layouts/application.html.erb:15:in `_app_views_layouts_application_html_erb___1947103855430407780_70244764943060_80626038825386948'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:42:16 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (7.1ms)
+Completed 500 Internal Server Error in 12ms
+
+ActionView::Template::Error (undefined local variable or method `test_path' for #<#<Class:0x007fc6428f8d78>:0x007fc6428c87b8>):
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", home_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+    18: <div id="content">
+  app/views/layouts/application.html.erb:15:in `_app_views_layouts_application_html_erb___1947103855430407780_70244748329660_80626038825386948'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.4ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.4ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/admin/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:48:06 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (71.1ms)
+Completed 500 Internal Server Error in 133ms
+
+ActionView::Template::Error (undefined local variable or method `test_path' for #<#<Class:0x007fc8bacf0140>:0x007fc8bace33c8>):
+    12: <div id="navigation">
+    13: <%= link_to "About", about_path  %>
+    14: <%= link_to "Home", home_path %>
+    15: <%= link_to "Tests", test_path %>
+    16: <%= link_to "Contact", contact_path %>
+    17: </div>
+    18: <div id="content">
+  app/views/layouts/application.html.erb:15:in `_app_views_layouts_application_html_erb___2160084704153850077_70250052038600__572227649824127638'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.2ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (11.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-15 20:48:44 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (27.9ms)
+Completed 200 OK in 32ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 20:48:47 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 127.0.0.1 at 2011-08-15 20:48:47 -0400
+  Processing by HomeController#tests as HTML
+Rendered home/tests.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 60ms (Views: 60.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:48:49 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 20:48:50 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 20:48:51 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 127.0.0.1 at 2011-08-15 20:48:52 -0400
+  Processing by HomeController#tests as HTML
+Rendered home/tests.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 36ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:48:53 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 20:48:55 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 20:48:56 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 127.0.0.1 at 2011-08-15 20:48:57 -0400
+  Processing by HomeController#tests as HTML
+Rendered home/tests.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 20:48:58 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 20:48:59 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 20:49:02 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 20:49:18 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 20:52:13 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 28ms (Views: 27.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:05:42 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 26ms (Views: 25.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:14:10 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:14:44 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:16:37 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:17:41 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:23:16 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:23:18 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:23:24 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:23:56 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:23:58 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:24:36 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:25:48 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:26:42 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:26:55 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:27:19 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:27:41 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:28:03 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 36ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:28:12 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:28:21 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:28:38 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:28:44 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:28:53 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:29:03 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:29:16 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:29:36 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:29:53 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:30:18 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:31:43 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:32:24 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:33:24 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:33:27 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:34:02 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:34:18 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:35:13 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:36:01 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:36:18 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:38:28 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:39:22 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:40:23 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:42:02 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:43:33 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:44:14 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:44:59 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:45:07 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:45:09 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:45:17 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:45:29 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:46:20 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:46:30 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:46:56 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:49:03 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:49:39 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:50:02 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:50:10 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:50:38 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:51:18 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:51:28 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:53:20 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 33ms (Views: 32.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:53:40 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 23ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:54:19 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 127.0.0.1 at 2011-08-15 21:54:20 -0400
+  Processing by HomeController#tests as HTML
+Rendered home/tests.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 60ms (Views: 59.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 21:54:21 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 21:54:23 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (32.4ms)
+Completed 200 OK in 37ms (Views: 36.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:54:24 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:55:27 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:56:05 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:56:24 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 21:56:25 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 127.0.0.1 at 2011-08-15 21:56:26 -0400
+  Processing by HomeController#tests as HTML
+Rendered home/tests.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 21:56:27 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 21:56:28 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 127.0.0.1 at 2011-08-15 21:56:30 -0400
+  Processing by HomeController#tests as HTML
+Rendered home/tests.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 21:56:31 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:56:32 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 21:56:33 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 127.0.0.1 at 2011-08-15 21:56:34 -0400
+  Processing by HomeController#tests as HTML
+Rendered home/tests.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 21:56:35 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 21:56:39 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:07:58 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 17ms (Views: 17.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 22:08:02 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 58ms (Views: 57.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:08:27 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 22:09:01 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 22:23:45 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 10ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-15 22:24:36 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:24:41 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:26:48 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:27:06 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:27:32 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:28:01 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:28:21 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:28:44 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:29:08 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:30:54 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:31:49 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:31:58 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:32:49 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:33:12 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:33:37 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:34:12 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:34:28 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:35:09 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:35:43 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:36:13 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:36:30 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-15 22:38:27 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 25ms (Views: 24.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 127.0.0.1 at 2011-08-15 22:38:45 -0400
+  Processing by HomeController#tests as HTML
+Rendered home/tests.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 62ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 22:38:48 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-15 23:00:13 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 28ms (Views: 27.3ms | ActiveRecord: 0.0ms)

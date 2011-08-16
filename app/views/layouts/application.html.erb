@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title><%= @title %></title>
+<%= stylesheet_link_tag :all %>
+
+</head>
+<body>
+  <div id="header">
+    <%= image_tag("logo.png", :alt => "Wanna be Rockateer", :width => 750, :height => 150)%>
+</div>
+
+<div id="navigation">
+  <ul>
+    <l1><%= link_to "Contact", contact_path %>
+    <l1><%= link_to "Tests", tests_path %>
+    <l1><%= link_to "About", about_path  %>
+    <l1><%= link_to "Home", home_path %>
+  </ul>
+</div>
+
+<div id="content">
+
+  <%= yield %>
+
+</div>
+
+<div id="footer">
+</div>
+
+</body>
+</html>
