@@ -2162,3 +2162,174 @@ Started GET "/contact" for 127.0.0.1 at 2011-08-15 23:00:13 -0400
   Processing by HomeController#contact as HTML
 Rendered home/contact.html.erb within layouts/application (2.7ms)
 Completed 200 OK in 28ms (Views: 27.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-16 00:07:39 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 21ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-16 00:07:42 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 21ms (Views: 20.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 127.0.0.1 at 2011-08-16 00:07:44 -0400
+  Processing by HomeController#tests as HTML
+Rendered home/tests.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 23ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-16 00:07:55 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 61ms (Views: 60.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-16 00:08:46 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-16 00:10:01 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-16 00:35:49 -0400
+
+SyntaxError (/Users/admin/Sites/rails_projects/kissell.info/app/helpers/application_helper.rb:5: syntax error, unexpected keyword_end, expecting ')'):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/home_controller.rb:1:in `<top (required)>'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.8ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (44.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-16 00:36:21 -0400
+
+SyntaxError (/Users/admin/Sites/rails_projects/kissell.info/app/helpers/application_helper.rb:5: syntax error, unexpected keyword_end, expecting ')'):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/home_controller.rb:1:in `<top (required)>'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (61.6ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (90.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-16 00:36:42 -0400
+
+SyntaxError (/Users/admin/Sites/rails_projects/kissell.info/app/helpers/application_helper.rb:5: syntax error, unexpected keyword_end, expecting ')'):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/home_controller.rb:1:in `<top (required)>'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (63.4ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (103.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-08-16 00:42:26 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (17.9ms)
+Completed 200 OK in 41ms (Views: 40.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 127.0.0.1 at 2011-08-16 00:42:29 -0400
+  Processing by HomeController#tests as HTML
+Rendered home/tests.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 6ms
+
+ActionView::Template::Error (undefined method `author' for nil:NilClass):
+    1: <h2>Tests</h2>
+    2: <p class="author">from <%= @home.author %></p>
+    3: 
+    4: 
+    5: <script src="https://gist.github.com/1148445.js"> </script>
+  app/views/home/tests.html.erb:2:in `_app_views_home_tests_html_erb__2266259889967619185_70250046962700__572227649824127638'
+
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (6.7ms)
+Rendered /Users/admin/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (50.3ms)
+
+
+Started GET "/tests" for 127.0.0.1 at 2011-08-16 00:42:59 -0400
+  Processing by HomeController#tests as HTML
+Rendered home/tests.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 127.0.0.1 at 2011-08-16 00:46:11 -0400
+  Processing by HomeController#tests as HTML
+Rendered home/tests.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tests" for 127.0.0.1 at 2011-08-16 00:46:32 -0400
+  Processing by HomeController#tests as HTML
+Rendered home/tests.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-16 00:46:47 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 24ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-16 00:51:13 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 16ms (Views: 15.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-16 00:55:17 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-16 00:56:48 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-16 00:56:56 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-16 00:57:08 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 38ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-16 00:57:47 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-08-16 00:58:19 -0400
+  Processing by HomeController#contact as HTML
+Rendered home/contact.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-08-16 00:58:21 -0400
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 24ms (Views: 23.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2011-08-16 00:58:25 -0400
+  Processing by HomeController#about as HTML
+Rendered home/about.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 23ms (Views: 22.6ms | ActiveRecord: 0.0ms)
