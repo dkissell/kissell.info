@@ -1,9 +1,13 @@
 KissellInfo::Application.routes.draw do
+
   match '/'         => 'home#index'
   match '/home'     => 'home#index'
-  match '/about'    => 'home#about' 
+  match '/about'    => 'home#about'
   match '/tests'    => 'home#tests'
   match '/contact'  => 'home#contact'
+  get "sign_up" => "users#new", :as => "sign_up"
+  root :to => "users#new"
+  resources :users
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

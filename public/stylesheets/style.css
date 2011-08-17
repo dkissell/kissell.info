@@ -2,16 +2,14 @@
 p  {font-family:"Georgia", Times, serif;}
 ul {font-family:"Georgia", Times, serif;}
 h1 {font-size:40px;
-	text-align:center;
+text-align:center;
 }
 h2 {font-size:25px;
-	text-align:center;
+text-align:center;
 }
 p {font-size:20px;
-   text-align:justify;
+   text-align:left;
    text-indent:50px;
-   padding-top:25px; 
-   padding-bottom:25px;
    padding-right:50px;
    padding-left:50px;
 }
@@ -67,11 +65,10 @@ color: black;
 
 #navigation {
 width:750px;
-height:40px;
+height:30px;
 background-color:#333333;
 margin-top:10px;
 padding-top:1px;
-padding-bottom:20px;
 
 }
 
